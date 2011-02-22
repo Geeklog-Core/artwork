@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="login-with-twitter.svg">
+  <title
+     id="title2866">Oauth Button</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3631">
+      <stop
+         style="stop-color:#4ac3d7;stop-opacity:1;"
+         offset="0"
+         id="stop3633" />
+      <stop
+         style="stop-color:#328da0;stop-opacity:1;"
+         offset="1"
+         id="stop3635" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3631"
+       id="linearGradient3637"
+       x1="71.561264"
+       y1="1029.8617"
+       x2="71.473579"
+       y2="1050.8627"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective3653"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="65.347032"
+     inkscape:cy="27.164854"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3608"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Oauth Button</dc:title>
+        <cc:license
+           rdf:resource="http://www.gnu.org/licenses/gpl-2.0.html" />
+        <dc:date>2010-11-06</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rouslan Placella</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.9973653;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3691"
+       width="128.00264"
+       height="21.002636"
+       x="24.498682"
+       y="1029.861"
+       ry="1.3364522" />
+    <rect
+       style="fill:url(#linearGradient3637);fill-opacity:1;stroke:#22788b;stroke-width:0.99897444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2816"
+       width="145.00255"
+       height="23.000977"
+       x="0.49948722"
+       y="1028.8617"
+       ry="2.4918406"
+       rx="2.4918406" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3681"
+       d="m 9.0476744,1038.9622 5.5134636,0"
+       style="fill:none;stroke:#ffffff;stroke-width:5.5999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path3685"
+       d="m 8.6,1035.6909 0,6.5502 c 0.031176,1.3512 1.3275558,2.5366 2.733169,2.5211 l 3.204407,0"
+       style="fill:none;stroke:#ffffff;stroke-width:5.5999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#26c6fc;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 8.6,1035.6909 0,6.5502 c 0.031176,1.3512 1.3275558,2.5366 2.733169,2.5211 l 3.204407,0"
+       id="path3659"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#26c6fc;stroke-width:3.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 9.0476744,1038.9622 5.5134636,0"
+       id="path3661"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#328da0;stroke-width:1.00254714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.501208,1029.3635 0,21.9974"
+       id="path3641"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3643"
+       d="m 23.501274,1029.3635 0,21.9974"
+       style="fill:none;stroke:#4ac3d7;stroke-width:1.00254714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3021"
+       transform="translate(-4.5000015,0)">
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#22788b;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         x="39.782864"
+         y="1043.1732"
+         id="text3701"><tspan
+           sodipodi:role="line"
+           id="tspan3703"
+           x="39.782864"
+           y="1043.1732"
+           style="font-weight:bold;letter-spacing:0.20943828;fill:#22788b;fill-opacity:1">Login with Twitter</tspan></text>
+      <text
+         id="text3687"
+         y="1044.1732"
+         x="39.782864"
+         style="font-size:11px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;letter-spacing:0.20943828;fill:#ffffff;fill-opacity:1"
+           y="1044.1732"
+           x="39.782864"
+           id="tspan3689"
+           sodipodi:role="line">Login with Twitter</tspan></text>
+    </g>
+  </g>
+</svg>
