@@ -1,0 +1,7 @@
+All icons drawn/edited with Inkscape ( www.inkscape.org ).
+Warning: other SVG rendering engines may produce incorrect results.
+
+If you do have Inkscape, then you may find the script "render.sh" useful for
+rendering every source file in this directory in one go and with multi-cpu
+support (please 'cd' to this directory before executing it, as very little
+error handling has been implemented).
